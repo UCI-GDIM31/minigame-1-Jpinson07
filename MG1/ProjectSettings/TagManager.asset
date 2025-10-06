@@ -7,6 +7,7 @@ TagManager:
   - CinemachineTarget
   - Hazard
   - Points
+  - PlayerCapsule
   layers:
   - Default
   - TransparentFX
